@@ -84,7 +84,8 @@
                 <div class="row tm-welcome-row">
                     <div class="tm-about">
                         <div class="col-12 tm-media tm-media-v-center">
-                            <i class="fab fa-5x fa-accusoft tm-about-icon"></i>
+                            <!-- <i class="fab fa-5x fa-accusoft tm-about-icon"></i> -->
+                            <img src="../NewVision/img/mine.jpg" class="Featured Item">
                             <div>
                                 @yield('bio')
                             </div>
@@ -148,7 +149,7 @@
                         </figcaption>
                     </figure>
                     <figure class="effect-zoe">
-                        <img src="../NewVision/img/team-img-04.jpg" alt="Featured Item">
+                        <img src="../NewVision/img/hashtag.png" alt="Featured Item">
                         <figcaption>
                             @yield('csharp')                            
                         </figcaption>

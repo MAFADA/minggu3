@@ -33,31 +33,27 @@
     @endsection
 
     @section('elementary')
-        <img src="../NewVision/img" alt="Image" class="img-fluid mb-5">
+        <img src="../NewVision/img/" alt="Image" class="img-fluid mb-5">
         <p class="tm-article-text">SD Negeri 1 Wonorejo</p>
-        <p>Bertempat di Desa Wonorejo, Kecamatan Kencong, Kabupaten Jember</p>
         <p>Tahun Ajar 2008-2014</p>  
     @endsection
 
     @section('middle')
         <img src="../NewVision/img/SMP.jpg" alt="Image" class="img-fluid mb-5">
-        <p class="tm-article-text">SMP Negeri 1 Kencong</p>
-        <p></p>
+        <p class="tm-article-text">SMP Negeri 1 Kencong</p>        
         <p>Tahun Ajar 2014-2017</p>  
     @endsection
 
     @section('high')
         <img src="../NewVision/img/SMA.png" alt="Image" class="img-fluid mb-5">
         <p class="tm-article-text">SMA Negeri 2 Lumajang</p>
-        <p></p>
         <p>Tahun Ajar 2017-2020</p>  
     @endsection  
 
     @section('now')
-        <img src="../NewVision/img/polinema.png" alt="Image" class="img-fluid mb-5">
+        <img src="../NewVision/img/Polinema (2).png" alt="Image" class="img-fluid mb-5">
         <p class="tm-article-text">Politeknik Negeri Malang</p>
-        <p></p>
-        <p>Tahun Ajar 2020-now</p>  
+        <p>Tahun Ajar 2020-Sekarang</p>  
     @endsection                                     
 
     @section('skill')

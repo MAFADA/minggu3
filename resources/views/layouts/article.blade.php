@@ -65,7 +65,7 @@
             
         <div class="row">
             <div class="col-12">
-                <div class="tm-main-bg tm-about-bg"></div>        
+                <div class="tm-main-bg tm-services-bg"></div>        
             </div>
         </div>
     @show
@@ -83,8 +83,7 @@
                 
                 <div class="row tm-welcome-row">
                     <div class="tm-about">
-                        <div class="col-12 tm-media tm-media-v-center">
-                            <i class="fab fa-5x fa-accusoft tm-about-icon"></i>
+                        <div class="col-12 tm-media tm-media-v-center">                        
                             <div>
                                 @yield('article1')
                             </div>
